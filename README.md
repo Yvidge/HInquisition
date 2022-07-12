@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Anton 👋
+Unreal Engine / C++ Developer  
+I love video games and game development  
+Have experience working with:
+ - Unreal Egine
+ - C++, OOP, Patterns and algorithms
+ - AI
+ - UI
+ - GAS
+
 
 <!--
 **HInquisition/HInquisition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

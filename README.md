@@ -3,7 +3,9 @@ Unreal Engine / C++ Developer
 
 🌱 I specialize in UI stuff  
 💚 I have great passion for video games and gamedev  
-📚 I’m currently learning UE Editor extensions   
+📚 I’m currently learning UE Editor extensions and web technologies
+
+Check my [website](https://yvidge.github.io/) for more!
 
 <!--
 **HInquisition/HInquisition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
